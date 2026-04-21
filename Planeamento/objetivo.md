@@ -1,3 +1,5 @@
 # Objetivos da semana
-Objetivo x concluido.
-objetivo y não concluido 
+- Melhorar o trabalho diário.
+- Atender bem os clientes.
+- Manter o espaço limpo.
+- Verificar máquinas regularmente.
