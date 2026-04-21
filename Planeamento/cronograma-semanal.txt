@@ -1,1 +1,3 @@
 Estrutura de um cronograma semanal.
+Quinta-feira - Verificar stock de detergentes
+Sexta-feira - Limpeza geral das máquinas de lavar
