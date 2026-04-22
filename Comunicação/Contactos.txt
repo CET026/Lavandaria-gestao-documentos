@@ -1,5 +1,5 @@
-Gerente - gerente@lavandaria.pt - 912345678
-Empregado1 - empregado1@lavandaria.pt - 929 669 996
-WebDesigner - webdesigner@lavandaria.pt - 978 887 403
-Técnico - tecnico@lavandaria.pt - 912 456 789
-Estagiária - estagiaria@lavandaria.pt - 910 000 001
+Gerente - gerente@lavandaria.com - 912345678
+Empregado1 - empregado1@lavandaria.com - 929 669 996
+WebDesigner - webdesigner@lavandaria.com - 978 887 403
+Técnico - tecnico@lavandaria.com - 912 456 789
+Estagiária - estagiaria@lavandaria.com - 910 000 001

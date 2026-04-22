@@ -1,9 +1,11 @@
 1 - Máquinas de lavar em bom estado.
 2 - Máquinas de secar funcionais.
 !Prioridade Alta! Fornecimento regular de detergente.
+======================================================
 4 - Espaço limpo e organizado.
 5 - Atendimento ao cliente disponível.
 !Prioridade Alta! Sistema de pagamentos ativo.
+======================================================
 7 - Horário visível à entrada.
 8 - Zona de espera confortável.
 9. Existência de cestos para roupa.
